@@ -12,6 +12,7 @@
         <module>../loveth</module>
         <module>../tools</module>
         <module>../TestWeb</module>
+        <module>weixin-jump</module>
     </modules>
 
     <parent>
